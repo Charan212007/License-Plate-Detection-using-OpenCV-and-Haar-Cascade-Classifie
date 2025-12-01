@@ -103,8 +103,14 @@ plt.show()
 ```
 # OUTPUT:
 <img width="508" height="500" alt="image" src="https://github.com/user-attachments/assets/bd4d3ad2-58c7-4e12-91c0-ef45ed6bf61f" />
+<br>
+
 <img width="412" height="493" alt="image" src="https://github.com/user-attachments/assets/86fb27fb-26f7-4026-89de-815e9c6dbdf3" />
+
+<br>
 <img width="462" height="504" alt="image" src="https://github.com/user-attachments/assets/997ca4ff-c88f-4de2-bd05-ab59b5cf46bd" />
+
+<br>
 <img width="595" height="552" alt="image" src="https://github.com/user-attachments/assets/d56e5749-d558-451d-9c8c-950aae9b31d4" />
 
 
